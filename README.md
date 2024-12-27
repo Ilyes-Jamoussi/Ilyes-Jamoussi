@@ -9,7 +9,7 @@ Je suis **Ilyes**, un étudiant en génie informatique passionné par le dévelo
 
 ## 👨‍💻 Projets
 
-Voici quelques-uns de mes projets que je suis fier de partager :
+Voici quelques-uns de mes projets :
 
 | Projet       | Technologies                          | Lien                                                                                      |
 |--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
