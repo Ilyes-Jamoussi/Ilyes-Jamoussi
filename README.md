@@ -52,6 +52,9 @@ Here are some of my projects:
 
 </div>
 
+---
+<br><br><br>
+---
 
 # 👋 Bienvenue sur mon profil GitHub
 
