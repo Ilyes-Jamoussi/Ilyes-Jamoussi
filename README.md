@@ -3,6 +3,7 @@
 [<img src="https://img.shields.io/badge/-English-blue?style=for-the-badge">](#-welcome-to-my-github-profile)                                     [<img src="https://img.shields.io/badge/-Français-green?style=for-the-badge">](#-bienvenue-sur-mon-profil-github)
 
 </div>
+
 ---
 
 
