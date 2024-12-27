@@ -36,7 +36,7 @@ Voici quelques-uns de mes projets :
 
 ## 📫 Contactez-moi
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyes@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyes)
