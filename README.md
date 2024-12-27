@@ -1,6 +1,6 @@
 # 🌍 Welcome | Bienvenue
 
-[🇬🇧 English](#welcome-to-my-gitHub-profile) | [🇫🇷 Français](#bienvenue-sur-mon-profil-gitHub)
+[🇬🇧 English](#welcome-to-my-github-profile) | [🇫🇷 Français](#bienvenue-sur-mon-profil-github)
 
 ---
 
