@@ -37,8 +37,6 @@ Here are some of my projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" />
 </div>
 
----
-
 ## 📫 Contact Me
 
 <div align="left">
