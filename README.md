@@ -55,5 +55,14 @@ Je suis **Ilyes**, un étudiant en génie informatique passionné par le dévelo
   <img src="https://via.placeholder.com/800x150?text=Switching+Language+🌍" alt="Separator" />
 </div>
 
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Switching languages" width="600" />
+</div>
+
+---
+
 ---
 
