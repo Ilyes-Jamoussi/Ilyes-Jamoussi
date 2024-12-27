@@ -66,3 +66,11 @@ Je suis **Ilyes**, un étudiant en génie informatique passionné par le dévelo
 
 ---
 
+<div align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading" width="200" />
+</div>
+
+---
+
+---
+
