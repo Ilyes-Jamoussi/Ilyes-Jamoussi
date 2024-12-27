@@ -47,6 +47,10 @@ Here are some of my projects:
 
 ---
 
+<br><br><br>
+
+---
+
 # 👋 Bienvenue sur mon profil GitHub
 
 Je suis **Ilyes**, un étudiant en génie informatique passionné par le développement web, les technologies modernes et la création de projets impactants.
