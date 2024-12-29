@@ -17,7 +17,7 @@ I am **Ilyes**, a computer engineering student passionate about web development,
 
 Here are some of my projects:
 
-| Project        | Technologies                                                                                          | Link                               |
+| Project        | Tech Stack                                                                                          | Link                               |
 |----------------|------------------------------------------------------------------------------------------------------|------------------------------------|
 | **PathFinder**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="React logo" /> | [View project](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md) |
 | **TetrisGame** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB logo" /> | [View project](https://github.com/Ilyes-Jamoussi/TetrisGame/blob/main/README.md) |
@@ -61,7 +61,7 @@ Je suis **Ilyes**, un étudiant en génie informatique passionné par le dévelo
 
 Voici quelques-uns de mes projets :
 
-| Projet        | Technologies                                                                                          | Lien                               |
+| Projet        | Technologies utilisées                                                                                          | Lien                               |
 |----------------|------------------------------------------------------------------------------------------------------|------------------------------------|
 | **PathFinder**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="React logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md) |
 | **TetrisGame** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/TetrisGame/blob/main/README.md) |
