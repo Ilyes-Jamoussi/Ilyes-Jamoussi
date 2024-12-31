@@ -22,7 +22,7 @@ Here are some of my projects:
 | **PathFinder**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="React logo" /> | [View project](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md) |
 | **TetrisGame** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="MongoDB logo" /> | [View project](https://github.com/Ilyes-Jamoussi/TetrisGame/blob/main/README.md) |
 | **ChessGame** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="20" alt="Redux logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/react-original.svg" height="20" alt="React logo" /> | [View project](https://github.com/Ilyes-Jamoussi/ChessGame/blob/main/README.md) |
-| **Pending...** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="20" alt="Jest logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="20" alt="Storybook logo" /> | [View project](https://github.com/Ilyes-Jamoussi/Projet1/README.md) |
+| **Pending...** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="20" alt="Jest logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="20" alt="Storybook logo" /> | [View project](https://github.com/Ilyes-Jamoussi/ChessGame/blob/main/README.md) |
 
 ## 🛠️ Skills
 
@@ -84,7 +84,7 @@ Voici quelques-uns de mes projets :
 | **PathFinder**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="React logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md) |
 | **TetrisGame** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="MongoDB logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/TetrisGame/blob/main/README.md) |
 | **ChessGame** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="20" alt="Redux logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/ChessGame/blob/main/README.md) |
-| **Pending...** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="20" alt="Jest logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="20" alt="Storybook logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/Projet1/blob/main/README.md) |
+| **Pending...** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="20" alt="Jest logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="20" alt="Storybook logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/ChessGame/blob/main/README.md) |
 
 ## 🛠️ Compétences
 
