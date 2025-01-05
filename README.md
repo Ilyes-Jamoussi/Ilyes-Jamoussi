@@ -29,8 +29,7 @@ Here are some of my projects:
 
 ## 👨‍💻 Projets
 
-- **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md)**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="16" alt="C++ logo" />
+- **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md)**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="16" alt="C++ logo" />
 
 - **[Tetris](https://github.com/Ilyes-Jamoussi/Tetris/blob/main/README.md)**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python logo" />
