@@ -16,8 +16,6 @@ I’m **Ilyes**, a software engineering student at Polytechnique Montreal, passi
 
 - **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="16" alt="C++ logo" />
 
-- **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="16" alt="NumPy logo" />
-
 - **[Tetris](https://github.com/Ilyes-Jamoussi/Tetris/blob/main/README.md)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="16" alt="NumPy logo" />
 
 - **[Chess](https://github.com/Ilyes-Jamoussi/Chess/blob/main/README.md)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="16" alt="C++ logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="16" alt="Qt logo" />
