@@ -23,6 +23,17 @@ Here are some of my projects:
 | **Chess** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="20" alt="qt logo" /> | [View project](https://github.com/Ilyes-Jamoussi/Chess/blob/main/README.md) |
 | **Pending...** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="express logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="mongodb logo" /> | [View project](https://github.com/Ilyes-Jamoussi/blob/main/README.md) |
 
+## 👨‍💻 Projets
+
+Voici quelques-uns de mes projets :
+
+| Projet        | Environnement | 
+|---------------|---------------|
+| [PathFinder](https://lien_du_projet_pathfinder) | C++           |
+| [Tetris](https://lien_du_projet_tetris)         | Python        |
+| [Chess](https://lien_du_projet_chess)           | Qt            |
+| [Pending...](https://lien_du_projet_pending)    | JS, React, Node.js, MongoDB |
+
 ## 🛠️ Skills
 
 <div align="left">
