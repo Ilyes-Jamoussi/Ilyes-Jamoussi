@@ -12,7 +12,7 @@
 I’m **Ilyes**, a software engineering student at Polytechnique Montreal, passionate about learning and crafting innovative solutions.
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-## 👨‍💻 Projects
+## Projects
 
 - **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="16" alt="C++ logo" />
 
@@ -22,7 +22,7 @@ I’m **Ilyes**, a software engineering student at Polytechnique Montreal, passi
 
 - **[Pending...](https://github.com/Ilyes-Jamoussi/blob/main/README.md)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="React logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" alt="JavaScript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="16" alt="HTML5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="16" alt="CSS3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="16" alt="Express logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="16" alt="MongoDB logo" />
 
-## 🛠️ Skills
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
