@@ -25,6 +25,15 @@ Here are some of my projects:
 
 ## 👨‍💻 Projets
 
+| Projet         | Stack Technologique                                                                                 | Lien                               |
+|----------------|-----------------------------------------------------------------------------------------------------|------------------------------------|
+| **PathFinder** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++ logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md) |
+| **Tetris**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="NumPy logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/Tetris/blob/main/README.md) |
+| **Chess**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++ logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="20" alt="Qt logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/Chess/blob/main/README.md) |
+| **Pending...** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="Express logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/blob/main/README.md) |
+
+## 👨‍💻 Projets
+
 Voici quelques-uns de mes projets :
 
 | Projet        | Environnement | 
