@@ -36,6 +36,19 @@ Here are some of my projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="16" alt="NumPy logo" />
 
+## 👨‍💻 Projets
+
+- **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md)**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="16" alt="C++ logo" />
+
+- **[Tetris](https://github.com/Ilyes-Jamoussi/Tetris/blob/main/README.md)**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="16" alt="NumPy logo" />
+
+- **[Chess](https://github.com/Ilyes-Jamoussi/Chess/blob/main/README.md)**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="16" alt="C++ logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="16" alt="Qt logo" />
+
+- **[Pending...](https://github.com/Ilyes-Jamoussi/blob/main/README.md)**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="React logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" alt="JavaScript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="16" alt="HTML5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="16" alt="CSS3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="16" alt="Express logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="16" alt="MongoDB logo" />
 
 ## 👨‍💻 Projets
 | Projet        | Tools       |
