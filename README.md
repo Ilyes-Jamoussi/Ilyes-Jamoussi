@@ -78,6 +78,7 @@ Je suis **Ilyes**, étudiant en génie logiciel à Polytechnique Montréal, pass
 Voici quelques-uns de mes projets :
 
 ||||
+|-|-|-|
 | **PathFinder**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="React logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md) |
 | **Tetris** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="MongoDB logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/Tetris/blob/main/README.md) |
 | **Chess** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="20" alt="gt logo" /> | [Voir le projet](https://github.com/Ilyes-Jamoussi/Chess/blob/main/README.md) |
