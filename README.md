@@ -28,6 +28,11 @@ Here are some of my projects:
 | [**Chess**](https://github.com/Ilyes-Jamoussi/Chess/blob/main/README.md)         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++ logo" /> |
 
 ## 👨‍💻 Projets
+
+- **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md)**  
+  ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+
+## 👨‍💻 Projets
 | Projet        | Tools       |
 |---------------|---------------------------|
 | [**PathFinder**](https://github.com/Ilyes-Jamoussi/PathFinder/blob/main/README.md) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++ logo" /> |
