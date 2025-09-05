@@ -11,9 +11,9 @@
 
 ## About Me
 
-I am a passionate software engineering student at Polytechnique Montreal, focused on developing innovative solutions through clean, efficient code. I enjoy tackling complex problems and building applications that make a meaningful impact.
+Software Engineering student at Polytechnique Montreal with a focus on developing efficient, scalable solutions. Experienced in full-stack development, algorithm design, and embedded systems programming.
 
-My expertise spans multiple programming languages and frameworks, with a particular interest in game development, algorithm optimization, and full-stack web applications.
+Specialized in game development, web applications, and robotics projects with strong problem-solving skills and attention to code quality.
 
 </td>
 <td width="40%">
