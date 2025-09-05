@@ -48,24 +48,12 @@ Autonomous robot with sensor integration
 </tr>
 </table>
 
-## Technical Skills
+## Education & Experience
 
-<div align="center">
+**Polytechnique Montreal** - Software Engineering  
+*2022 - Present*
 
-| **Languages** | **Frontend** | **Backend & Database** | **Tools** |
-|:-------------:|:------------:|:----------------------:|:---------:|
-| C++, Python | React | Node.js | Qt |
-| Java, JavaScript | HTML5, CSS3 | Express, MongoDB | NumPy, Git |
-| MATLAB | | | |
-
-</div>
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilyes-Jamoussi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyes-Jamoussi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</div>
+**Key Coursework:** Data Structures & Algorithms, Software Design, Database Systems, Web Development
 
 ---
 
