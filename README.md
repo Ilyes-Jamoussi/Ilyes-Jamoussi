@@ -33,11 +33,10 @@ My expertise spans multiple programming languages and frameworks, with a particu
 | Project | Description |
 |---------|-------------|
 | **[RPG Online Strategy Game](https://github.com/Ilyes-Jamoussi/RPG-online-strategy-game)** | Multiplayer strategy game with real-time combat system |
-| **[PathFinder](https://github.com/Ilyes-Jamoussi/PathFinder)** | Advanced pathfinding algorithm visualizer |
+| **[AVR Microcontroller Robot](https://github.com/Ilyes-Jamoussi/AVR-Microcontroller-Robot)** | Autonomous robot with sensor integration |
 | **[Chess](https://github.com/Ilyes-Jamoussi/Chess)** | Full-featured chess game with AI opponent |
 | **[Tetris](https://github.com/Ilyes-Jamoussi/Tetris)** | Classic Tetris implementation with modern features |
 | **[StudyScore](https://github.com/Ilyes-Jamoussi/StudyScore)** | Student grade management system |
-| **[AVR Microcontroller Robot](https://github.com/Ilyes-Jamoussi/AVR-Microcontroller-Robot)** | Autonomous robot with sensor integration |
 
 </div>
 
