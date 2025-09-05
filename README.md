@@ -46,7 +46,7 @@ Specialized in game development, web applications, and robotics projects with st
 
 ### Contact Information
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamoussi.mail@gmail.com)
+**Email:** jamoussi.mail@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyes-jamoussi-b4aa94251/)
 
 </div>
