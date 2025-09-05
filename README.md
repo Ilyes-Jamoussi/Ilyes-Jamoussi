@@ -73,9 +73,9 @@ Autonomous robot with sensor integration
 
 ### Contact Information
 
-**📧 Email:** [jamoussi.mail@gmail.com](mailto:jamoussi.mail@gmail.com)  
-**💼 LinkedIn:** [linkedin.com/in/ilyes-jamoussi-b4aa94251](https://www.linkedin.com/in/ilyes-jamoussi-b4aa94251/)  
-**🔗 GitHub:** [github.com/Ilyes-Jamoussi](https://github.com/Ilyes-Jamoussi)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamoussi.mail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyes-jamoussi-b4aa94251/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ilyes-Jamoussi)
 
 *Currently seeking internship opportunities in software development*
 
