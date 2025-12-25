@@ -32,7 +32,7 @@ Specialized in game development, web applications, and robotics projects with st
 
 | Project | Description |
 |---------|-------------|
-| **[RPG Online Strategy Game](https://github.com/Ilyes-Jamoussi/RPG-online-strategy-game)** | Multiplayer strategy game with real-time combat system |
+| **[Online-Multiplayer-RPG-Platform](https://github.com/Ilyes-Jamoussi/Online-Multiplayer-RPG-Platform)** | Multiplayer strategy game with real-time combat system |
 | **[AVR Microcontroller Robot](https://github.com/Ilyes-Jamoussi/AVR-Microcontroller-Robot)** | Autonomous robot with sensor integration |
 | **[Chess](https://github.com/Ilyes-Jamoussi/Chess)** | Full-featured chess game with AI opponent |
 | **[Tetris](https://github.com/Ilyes-Jamoussi/Tetris)** | Classic Tetris implementation with modern features |
