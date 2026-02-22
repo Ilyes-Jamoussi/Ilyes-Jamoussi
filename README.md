@@ -32,6 +32,7 @@ Specialized in game development, web applications, and robotics projects with st
 
 | Project | Description |
 |---------|-------------|
+| **[MailGuard AI](https://github.com/Ilyes-Jamoussi/mailguard-ai)** | AI-powered email spam detector using a Transformer built from scratch — [Live Demo](https://mailguard-ai.streamlit.app) |
 | **[Online-Multiplayer-RPG-Platform](https://github.com/Ilyes-Jamoussi/Online-Multiplayer-RPG-Platform)** | Multiplayer strategy game with real-time combat system |
 | **[AVR Microcontroller Robot](https://github.com/Ilyes-Jamoussi/AVR-Microcontroller-Robot)** | Autonomous robot with sensor integration |
 | **[Chess](https://github.com/Ilyes-Jamoussi/Chess)** | Full-featured chess game with AI opponent |
