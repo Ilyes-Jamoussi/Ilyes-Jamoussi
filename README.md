@@ -9,9 +9,9 @@
 ex-AWS Cloud Consultant Intern (ProServe) · 3× AWS Certified · Quantum computing researcher @ Calcul Québec
 
 <p>
-  <img alt="AWS Certified Developer – Associate" src="https://img.shields.io/badge/AWS_Certified-Developer_%E2%80%93_Associate-232F3E?logo=amazonwebservices&logoColor=FF9900">
-  <img alt="AWS Certified Solutions Architect – Associate" src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_%E2%80%93_Associate-232F3E?logo=amazonwebservices&logoColor=FF9900">
-  <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-232F3E?logo=amazonwebservices&logoColor=FF9900">
+  <img alt="AWS Certified Developer – Associate" src="https://img.shields.io/badge/AWS-Developer_%E2%80%93_Associate-232F3E?logo=amazonwebservices&logoColor=FF9900">
+  <img alt="AWS Certified Solutions Architect – Associate" src="https://img.shields.io/badge/AWS-Solutions_Architect_%E2%80%93_Associate-232F3E?logo=amazonwebservices&logoColor=FF9900">
+  <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?logo=amazonwebservices&logoColor=FF9900">
 </p>
 
 </div>
