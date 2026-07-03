@@ -1,0 +1,66 @@
+# Keep the Streamlit Community Cloud demos awake.
+#
+# Context: Streamlit Community Cloud puts apps to sleep after ~12 h without
+# visits; a recruiter clicking a sleeping demo sees a wake-up screen instead
+# of the app. This workflow pings both demos every 6 hours.
+#
+# Known limits (be honest with yourself about these):
+#   1. A plain HTTP GET is usually enough to register a visit, but Streamlit's
+#      activity detection can change. If the apps still fall asleep, replace
+#      the curl step with a headless-browser ping (Playwright skeleton below).
+#   2. GitHub disables scheduled workflows after 60 days without repo
+#      activity. Any commit resets the clock; re-enable from the Actions tab
+#      if it happens.
+#   3. Ultimate fallback: label the links "(may take ~30 s to wake)" and test
+#      both apps in a private window before every application wave.
+
+name: Keep Streamlit demos awake
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 h, offset from :00 to avoid cron congestion
+  workflow_dispatch:          # allow manual runs
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      # The cookie jar (-c/-b) is required: Streamlit 303-redirects anonymous
+      # visitors through share.streamlit.io/-/auth/app to set a session cookie,
+      # and curl loops forever on that redirect without one.
+      - name: Ping MiniGPT demo
+        run: |
+          curl -fsSL -c cookies.txt -b cookies.txt --retry 3 --retry-delay 10 -o /dev/null \
+            -w "MiniGPT -> HTTP %{http_code}\n" https://minigpt-llm.streamlit.app
+      - name: Ping MailGuard demo
+        run: |
+          curl -fsSL -c cookies.txt -b cookies.txt --retry 3 --retry-delay 10 -o /dev/null \
+            -w "MailGuard -> HTTP %{http_code}\n" https://mailguard-ai.streamlit.app
+
+  # --- Upgrade path if plain GETs stop keeping the apps awake ---------------
+  # Replace the `ping` job above with this browser-based version:
+  #
+  # ping-browser:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/setup-node@v4
+  #       with: { node-version: 22 }
+  #     - run: npx playwright install --with-deps chromium
+  #     - run: |
+  #         cat > ping.mjs <<'EOF'
+  #         import { chromium } from 'playwright';
+  #         const urls = ['https://minigpt-llm.streamlit.app', 'https://mailguard-ai.streamlit.app'];
+  #         const browser = await chromium.launch();
+  #         for (const url of urls) {
+  #           const page = await browser.newPage();
+  #           await page.goto(url, { waitUntil: 'networkidle', timeout: 90000 });
+  #           // If the sleep screen is shown, click the wake-up button.
+  #           const btn = page.getByText(/get this app back up/i);
+  #           if (await btn.count()) await btn.first().click();
+  #           await page.waitForTimeout(15000);
+  #           console.log(`visited ${url}`);
+  #           await page.close();
+  #         }
+  #         await browser.close();
+  #         EOF
+  #         node ping.mjs
