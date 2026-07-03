@@ -46,7 +46,6 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
     <td>
       <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white">
       <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white">
-      <img alt="Transformers" src="https://img.shields.io/badge/Transformers-24292f?style=flat-square">
       <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-24292f?style=flat-square&logo=pandas&logoColor=white">
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-24292f?style=flat-square&logo=numpy&logoColor=white">
@@ -82,6 +81,8 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
       <img alt="Angular" src="https://img.shields.io/badge/Angular-24292f?style=flat-square&logo=angular&logoColor=white">
       <img alt="NestJS" src="https://img.shields.io/badge/NestJS-24292f?style=flat-square&logo=nestjs&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white">
+      <img alt="React Native" src="https://img.shields.io/badge/React_Native-24292f?style=flat-square&logo=react&logoColor=white">
+      <img alt="Expo" src="https://img.shields.io/badge/Expo-24292f?style=flat-square&logo=expo&logoColor=white">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white">
     </td>
   </tr>
