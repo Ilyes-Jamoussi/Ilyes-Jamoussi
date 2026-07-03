@@ -1,5 +1,5 @@
 <svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="statsTitle">
-  <title id="statsTitle">GitHub activity: 469 contributions in the last 12 months, 7 public repositories, most used languages</title>
+  <title id="statsTitle">GitHub activity: 470 contributions in the last 12 months, 7 public repositories, most used languages</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -24,7 +24,7 @@
   </style>
   <rect x="0.5" y="0.5" width="1199" height="249" rx="14" fill="url(#bg)" stroke="#30363d"/>
   <text x="64" y="66" class="caps">CONTRIBUTIONS · LAST 12 MONTHS</text>
-  <text x="64" y="146" class="big">469</text>
+  <text x="64" y="146" class="big">470</text>
   <rect x="66" y="164" width="72" height="4" rx="2" fill="url(#accent)"/>
   <text x="64" y="200" class="sub">7 public repositories</text>
   <line x1="480" y1="48" x2="480" y2="202" stroke="#30363d"/>
@@ -32,22 +32,22 @@
   <text x="540" y="100" class="lang">Python</text>
   <rect x="680" y="92" width="400" height="8" rx="4" fill="#21262d"/>
   <rect x="680" y="92" width="400.0" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.0s"/>
-  <text x="1136" y="100" text-anchor="end" class="pct">44.4%</text>
+  <text x="1136" y="100" text-anchor="end" class="pct">52.3%</text>
   <text x="540" y="127" class="lang">TypeScript</text>
   <rect x="680" y="119" width="400" height="8" rx="4" fill="#21262d"/>
-  <rect x="680" y="119" width="134.8" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.1s"/>
-  <text x="1136" y="127" text-anchor="end" class="pct">15.0%</text>
+  <rect x="680" y="119" width="98.0" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.1s"/>
+  <text x="1136" y="127" text-anchor="end" class="pct">12.8%</text>
   <text x="540" y="154" class="lang">C++</text>
   <rect x="680" y="146" width="400" height="8" rx="4" fill="#21262d"/>
-  <rect x="680" y="146" width="132.5" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.2s"/>
-  <text x="1136" y="154" text-anchor="end" class="pct">14.7%</text>
+  <rect x="680" y="146" width="96.3" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.2s"/>
+  <text x="1136" y="154" text-anchor="end" class="pct">12.6%</text>
   <text x="540" y="181" class="lang">JavaScript</text>
   <rect x="680" y="173" width="400" height="8" rx="4" fill="#21262d"/>
-  <rect x="680" y="173" width="95.8" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.3s"/>
-  <text x="1136" y="181" text-anchor="end" class="pct">10.6%</text>
+  <rect x="680" y="173" width="69.6" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.3s"/>
+  <text x="1136" y="181" text-anchor="end" class="pct">9.1%</text>
   <text x="540" y="208" class="lang">CSS</text>
   <rect x="680" y="200" width="400" height="8" rx="4" fill="#21262d"/>
-  <rect x="680" y="200" width="54.4" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.4s"/>
-  <text x="1136" y="208" text-anchor="end" class="pct">6.0%</text>
+  <rect x="680" y="200" width="39.5" height="8" rx="4" fill="#2f81f7" class="bar" style="animation-delay: 0.4s"/>
+  <text x="1136" y="208" text-anchor="end" class="pct">5.2%</text>
   <text x="1136" y="232" text-anchor="end" class="note">byte share averaged across public repositories · refreshed weekly</text>
 </svg>
