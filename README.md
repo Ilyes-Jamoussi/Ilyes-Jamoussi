@@ -28,13 +28,13 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
 
 - **[MiniGPT](https://github.com/Ilyes-Jamoussi/minigpt-llm)** — decoder-only GPT trained from scratch in PyTorch on TinyStories: 13.9M parameters, byte-level BPE tokenizer, **5.32 validation perplexity**. Token-streaming inference over FastAPI (SSE), Dockerized, CI with ruff + mypy + pytest. [Live demo](https://minigpt-llm.streamlit.app)
 - **[MailGuard AI](https://github.com/Ilyes-Jamoussi/mailguard-ai)** — encoder-only Transformer spam classifier built from scratch: padding-masked attention, custom 30K-token vocabulary, class-weighted loss on stratified splits. **97.0% accuracy, 0.95 spam F1** on SpamAssassin. [Live demo](https://mailguard-ai.streamlit.app)
-- **[Manor Tactics](https://github.com/Ilyes-Jamoussi/Online-Multiplayer-RPG-Platform)** — real-time multiplayer tactical RPG (team of 5): Angular + NestJS + Socket.IO, visual map editor, AI players, GitLab CI/CD with **100% unit-test coverage**, automated AWS EC2 deployment. 2nd top contributor — **318/955 commits**.
+- **[Manor Tactics](https://github.com/Ilyes-Jamoussi/Online-Multiplayer-RPG-Platform)** — real-time multiplayer tactical RPG (team of 5): Angular + NestJS + Socket.IO, visual map editor, AI players, **1,300+ unit tests** in GitLab CI, automated AWS EC2 deployment via GitHub Actions. 2nd top contributor — **318/955 commits**.
 - **[AVR Robot](https://github.com/Ilyes-Jamoussi/AVR-Microcontroller-Robot)** — autonomous line-following robot in C++ on ATmega324PA: **Dijkstra shortest-path navigation** stopping 10 cm from target posts; IR sensors, PWM motor control, I2C EEPROM, UART.
 
 ## Experience
 
-- **AWS — Professional Services** (Cloud Consultant Intern, A2C team · Summer 2025) — built an iOS/Android app replacing paper workflows for **100+ field technicians**, cutting reporting delays **from months to seconds**; architected the serverless AWS backend (**auto-scaling to 1M+ users**) with offline-first sync (AppSync) and an **Amazon Bedrock (Claude)** documentation assistant.
-- **Calcul Québec** (Researcher, Hybrid Quantum Algorithms · Summer 2026) — developing hybrid quantum-classical algorithms in Python on **MonarQ, a 24-qubit universal quantum computer**, with GPU/CPU high-performance computing clusters.
+- **Calcul Québec** (Researcher, Hybrid Quantum Algorithms · Summer 2026 — current) — developing hybrid quantum-classical algorithms in Python on **MonarQ, a 24-qubit universal quantum computer**, with GPU/CPU high-performance computing clusters.
+- **AWS — Professional Services** (Cloud Consultant Intern · Summer 2025) — built an iOS/Android app replacing paper workflows for **100+ field technicians**, cutting reporting delays **from months to seconds**; architected the serverless AWS backend with offline-first sync (AppSync) and an **Amazon Bedrock (Claude 3.5 Sonnet)** documentation assistant.
 - **Accenture — AI Strategy mandate** (Consultant, CCGP · Winter 2025) — designed a **RAG-powered chatbot** for a 10,000+ document portal, cutting navigation time by **75% for 1,000+ users**.
 - **Polytechnique Montréal** — Teaching Assistant (Data Structures & Algorithms) · Team Lead of the peer-tutoring program.
 
