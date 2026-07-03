@@ -95,8 +95,6 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/07c3fe33640849dc9d4d3f3d57077560"><img alt="AWS Certified AI Practitioner (verify credential)" src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-24292f?style=flat-square&logo=amazonwebservices&logoColor=FF9900"></a>
 </p>
 
-All three issued in 2025 — each badge links to AWS's official credential verification.
-
 ## GitHub Activity
 
 <picture>
