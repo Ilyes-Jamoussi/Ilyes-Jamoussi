@@ -1,0 +1,46 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bannerTitle">
+  <title id="bannerTitle">Ilyes Jamoussi — machine learning from scratch, production-grade software</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#39c5cf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.1" r="0.85">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .name {
+      font: 700 58px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      letter-spacing: -1px;
+      fill: #f0f6fc;
+    }
+    .tag {
+      font: 400 21px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      letter-spacing: 0.3px;
+      fill: #8b949e;
+      animation: fade 1s ease-out;
+    }
+    .rule {
+      stroke: url(#accent);
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-dasharray: 160;
+      stroke-dashoffset: 0;
+      animation: draw 1.1s ease-out;
+    }
+    @keyframes draw { from { stroke-dashoffset: 160; } to { stroke-dashoffset: 0; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .rule, .tag { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="14" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="14" fill="url(#glow)"/>
+  <text x="600" y="124" text-anchor="middle" class="name">Ilyes Jamoussi</text>
+  <line x1="520" y1="154" x2="680" y2="154" class="rule"/>
+  <text x="600" y="198" text-anchor="middle" class="tag">Machine learning from scratch · Production-grade software</text>
+</svg>
