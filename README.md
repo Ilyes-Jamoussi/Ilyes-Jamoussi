@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[Portfolio](https://ilyes-jamoussi.github.io) · [LinkedIn](https://www.linkedin.com/in/ilyes-jamoussi-b4aa94251/) · [jamoussi.mail@gmail.com](mailto:jamoussi.mail@gmail.com)
+[Portfolio](https://ilyes-jamoussi.github.io) · [LinkedIn](https://www.linkedin.com/in/ilyes-jamoussi) · [jamoussi.mail@gmail.com](mailto:jamoussi.mail@gmail.com)
 
 </div>
 
