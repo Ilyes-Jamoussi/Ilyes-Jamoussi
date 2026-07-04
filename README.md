@@ -28,7 +28,7 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
 
 - **[MiniGPT](https://github.com/Ilyes-Jamoussi/minigpt-llm)** — decoder-only GPT trained from scratch in PyTorch on TinyStories: 13.9M parameters, byte-level BPE tokenizer, **5.32 validation perplexity**. Token-streaming inference over FastAPI (SSE), Dockerized, CI with ruff + mypy + pytest. [Live demo](https://minigpt-llm.streamlit.app)
 - **[MailGuard AI](https://github.com/Ilyes-Jamoussi/mailguard-ai)** — encoder-only Transformer spam classifier built from scratch: padding-masked attention, custom 30K-token vocabulary, class-weighted loss on stratified splits. **97.0% accuracy, 0.95 spam F1** on SpamAssassin. [Live demo](https://mailguard-ai.streamlit.app)
-- **[Poly Arena](https://github.com/Ilyes-Jamoussi/cross-platform-multiplayer-game)** — cross-platform multiplayer tactics game (team of 6): Angular web, Flutter mobile & Electron desktop clients on one authoritative NestJS + Socket.IO server; 4 game modes, visual map editor, AI players, **950+ unit tests**. Top contributor — **283/545 commits**.
+- **[Poly Arena](https://github.com/Ilyes-Jamoussi/cross-platform-multiplayer-game)** — cross-platform multiplayer tactics game (team of 6): Angular web, Flutter mobile & Electron desktop clients on one authoritative NestJS + Socket.IO server; 4 game modes, visual map editor, AI players, **980+ unit tests all green in CI**. Top contributor — **283/545 commits**.
 - **[AVR Robot](https://github.com/Ilyes-Jamoussi/AVR-Microcontroller-Robot)** — autonomous line-following robot in C++ on ATmega324PA: **Dijkstra shortest-path navigation** stopping 10 cm from target posts; IR sensors, PWM motor control, I2C EEPROM, UART.
 
 ## Experience
