@@ -26,6 +26,7 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
 
 ## Featured Projects
 
+- **[Peaked Circuits](https://github.com/Ilyes-Jamoussi/peaked-circuits-pennylane)** — PennyLane reproduction of Aaronson & Zhang's verifiable-quantum-advantage construction (arXiv:2404.14493): brick-wall random circuits driven to peak on a single basis state by variational SU(4) layers — **δ = 0.2024 vs the paper's ~0.2** at 12 qubits, fully seeded, tests green in CI.
 - **[MiniGPT](https://github.com/Ilyes-Jamoussi/minigpt-llm)** — decoder-only GPT trained from scratch in PyTorch on TinyStories: 13.9M parameters, byte-level BPE tokenizer, **5.32 validation perplexity**. Token-streaming inference over FastAPI (SSE), Dockerized, CI with ruff + mypy + pytest. [Live demo](https://minigpt-llm.streamlit.app)
 - **[MailGuard AI](https://github.com/Ilyes-Jamoussi/mailguard-ai)** — encoder-only Transformer spam classifier built from scratch: padding-masked attention, custom 30K-token vocabulary, class-weighted loss on stratified splits. **97.0% accuracy, 0.95 spam F1** on SpamAssassin. [Live demo](https://mailguard-ai.streamlit.app)
 - **[Poly Arena](https://github.com/Ilyes-Jamoussi/cross-platform-multiplayer-game)** — cross-platform multiplayer tactics game (team of 6): Angular web, Flutter mobile & Electron desktop clients on one authoritative NestJS + Socket.IO server; 4 game modes, visual map editor, AI players, **980+ unit tests all green in CI**. Top contributor — **283/545 commits**.
@@ -46,6 +47,7 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
     <td>
       <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white">
       <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white">
+      <img alt="PennyLane" src="https://img.shields.io/badge/PennyLane-24292f?style=flat-square">
       <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-24292f?style=flat-square&logo=pandas&logoColor=white">
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-24292f?style=flat-square&logo=numpy&logoColor=white">
