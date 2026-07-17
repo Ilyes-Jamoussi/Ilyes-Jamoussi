@@ -9,20 +9,8 @@
 
 </div>
 
-> **I build ML systems from scratch — GPT and Transformer architectures in raw PyTorch, no `nn.Transformer`, no pretrained weights — and ship them like production software: typed code, tests, CI, Docker, live demos.**
-
-Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentration, Dec 2027) · Hybrid quantum-classical algorithms researcher @ **Calcul Québec** · ex-**AWS** Cloud Consultant Intern (ProServe)
-
-<table>
-  <tr>
-    <th width="50%"><a href="https://minigpt-llm.streamlit.app">MiniGPT — live demo</a></th>
-    <th width="50%"><a href="https://mailguard-ai.streamlit.app">MailGuard AI — live demo</a></th>
-  </tr>
-  <tr>
-    <td><a href="https://minigpt-llm.streamlit.app"><img src="assets/demo-minigpt.png" alt="MiniGPT live demo — streaming story generation from a from-scratch GPT, with validation perplexity and parameter count in the sidebar"></a></td>
-    <td><a href="https://mailguard-ai.streamlit.app"><img src="assets/demo-mailguard.png" alt="MailGuard AI live demo — Transformer spam classifier flagging a phishing email as spam with 100% confidence"></a></td>
-  </tr>
-</table>
+Software Engineering student at **Polytechnique Montréal** — AI & Data Science concentration, expected Dec 2027<br>
+Quantum algorithms researcher at **Calcul Québec** · previously Cloud Consultant Intern at **AWS** Professional Services
 
 ## Featured Projects
 
@@ -34,10 +22,18 @@ Software Engineering @ **Polytechnique Montréal** (AI & Data Science concentrat
 
 ## Experience
 
-- **Calcul Québec** (Researcher, Hybrid Quantum Algorithms · Summer 2026 — current) — developing hybrid quantum-classical algorithms in Python on **MonarQ, a 24-qubit universal quantum computer**, with GPU/CPU high-performance computing clusters.
-- **AWS — Professional Services** (Cloud Consultant Intern · Summer 2025) — built an iOS/Android app replacing paper workflows for **100+ field technicians**, cutting reporting delays **from months to seconds**; architected the serverless AWS backend with offline-first sync (AppSync) and an **Amazon Bedrock (Claude 3.5 Sonnet)** documentation assistant.
-- **Accenture — AI Strategy mandate** (Consultant, CCGP · Winter 2025) — designed a **RAG-powered chatbot** for a 10,000+ document portal, cutting navigation time by **75% for 1,000+ users**.
-- **Polytechnique Montréal** — Teaching Assistant (Data Structures & Algorithms) · Team Lead of the peer-tutoring program.
+Research, industry, and teaching roles spanning quantum computing, cloud, and applied AI.
+
+**Calcul Québec** — Researcher, Hybrid Quantum Algorithms · Summer 2026 — current<br>
+Developing hybrid quantum-classical algorithms in Python on **MonarQ, a 24-qubit universal quantum computer**, with GPU/CPU high-performance computing clusters.
+
+**AWS — Professional Services** — Cloud Consultant Intern · Summer 2025<br>
+Built an iOS/Android app replacing paper workflows for **100+ field technicians**, cutting reporting delays **from months to seconds**; architected the serverless AWS backend with offline-first sync (AppSync) and an **Amazon Bedrock (Claude 3.5 Sonnet)** documentation assistant.
+
+**Accenture** — Consultant, AI Strategy mandate (CCGP) · Winter 2025<br>
+Designed a **RAG-powered chatbot** for a 10,000+ document portal, cutting navigation time by **75% for 1,000+ users**.
+
+**Polytechnique Montréal** — Teaching Assistant (Data Structures & Algorithms) · Team Lead of the peer-tutoring program
 
 ## Stack
 
